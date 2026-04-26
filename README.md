@@ -1,4 +1,4 @@
-# 📝 TaskFlow — Todo List App
+# 📝 SlayList — Todo List App
 
 A clean and responsive Todo List web app built to help you stay organized, productive, and on top of your daily tasks.
 TaskFlow lets users add, manage, complete, and delete tasks with a smooth and modern user experience.
