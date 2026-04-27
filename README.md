@@ -1,7 +1,7 @@
 # 📝 SlayList — Todo List App
 
 A clean and responsive Todo List web app built to help you stay organized, productive, and on top of your daily tasks.
-TaskFlow lets users add, manage, complete, and delete tasks with a smooth and modern user experience.
+SlayList lets users add, manage, complete, and delete tasks with a smooth and modern user experience.
 
 ---
 
@@ -101,6 +101,8 @@ Simple, fast, and effective ✨
 
 Add a screenshot of your app here:
 
+<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/a6439329-c9a4-4d92-b539-20ad6509eb1e" />
+
 ```bash
 /public/preview.png
 ```
@@ -121,8 +123,7 @@ Then display it in README like this:
 * 🗂️ Task categories
 * 📅 Due dates
 * 🔍 Search tasks
-* 🏷️ Filters (All / Active / Completed)
-* 💾 Local storage / database support
+* 💾 database support
 
 ---
 
