@@ -99,21 +99,7 @@ Simple, fast, and effective ✨
 
 ## 📸 Preview
 
-Add a screenshot of your app here:
-
 <img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/a6439329-c9a4-4d92-b539-20ad6509eb1e" />
-
-```bash
-/public/preview.png
-```
-
-> Tip: Take a screenshot of your app UI and save it as `preview.png` inside the `public` folder.
-
-Then display it in README like this:
-
-```md
-![TaskFlow Preview](./public/preview.png)
-```
 
 ---
 
